@@ -1,0 +1,17 @@
+{
+  "name": "chatcat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bill Banks",
+  "license": "ISC",
+  "engines": {
+    "node": "4.2.2"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
